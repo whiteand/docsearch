@@ -6661,10 +6661,10 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@testing-library/dom@8.11.3":
-  version "8.11.3"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-8.11.3.tgz#38fd63cbfe14557021e88982d931e33fb7c1a808"
-  integrity sha512-9LId28I+lx70wUiZjLvi1DB/WT2zGOxUh46glrSNMaWVx849kKAluezVzZrXJfTKKoQTmEOutLes/bHg4Bj3aA==
+"@testing-library/dom@8.15.0":
+  version "8.15.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-8.15.0.tgz#c7f8549dc4d094786a5bf1c241fbd0e0df9d1e74"
+  integrity sha512-KtMhnUST7iUvZPl3LlRKH9V/JGbMIwgCxSeGno+c2VRRgC21l27Ky8rU8n/xRcfUAsO4w9fn3Z70Dq3Tcg6KAg==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
